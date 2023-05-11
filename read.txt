@@ -1,0 +1,3 @@
+**Replace some text here**
+
+After replacing the text run the encryption application (encryption.js). This will create a new file encrypted.txt in the same directory which will contain encrypted text.

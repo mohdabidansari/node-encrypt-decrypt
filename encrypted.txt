@@ -1,0 +1,1 @@
+**This will contain encrypted text of read.txt file after the encryption.js app is run**
